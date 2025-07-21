@@ -1,4 +1,4 @@
-![8](https://github.com/user-attachments/assets/2e894917-083a-4003-9360-5480f2d07e94)![2](https://github.com/user-attachments/assets/f6395113-3855-4b5c-bfb0-84316762e049)# 🛍️ Smart Shop
+# 🛍️ Smart Shop
 
 A clean, modular Flutter mini e-commerce application featuring:
 
